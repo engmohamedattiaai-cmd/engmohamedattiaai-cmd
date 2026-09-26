@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohamed Attia Saad
+#  Hi, I'm Mohamed Attia Saad
 
-### 🤖 AI Engineer | Machine Learning | Deep Learning | Data Science & Analytics
+###  AI Engineer | Machine Learning | Deep Learning | Data Science & Analytics
 
 <p>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white" />
@@ -19,23 +19,23 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
-🎓 **AI Student at Pharos University**
+ **AI Student at Pharos University**
 
-🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision**.
+ Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision**.
 
-📊 Interested in **Data Science, Data Analysis, SQL, Excel, and Power BI**.
+ Interested in **Data Science, Data Analysis, SQL, Excel, and Power BI**.
 
-🐍 Building solutions with **Python, C++, Prolog, and MATLAB**.
+ Building solutions with **Python, C++, Prolog, and MATLAB**.
 
-⚙️ Exploring **AI Automation** and intelligent workflow solutions.
+ Exploring **AI Automation** and intelligent workflow solutions.
 
-🚀 Continuously learning, building projects, and improving my problem-solving skills.
+ Continuously learning, building projects, and improving my problem-solving skills.
 
 ---
 
-## 🤖 AI Engineering
+##  AI Engineering
 
 * Artificial Intelligence
 * AI Engineering
@@ -46,7 +46,7 @@
 
 ---
 
-## 🧠 Machine Learning & Deep Learning
+##  Machine Learning & Deep Learning
 
 * Machine Learning
 * Deep Learning
@@ -59,7 +59,7 @@
 
 ---
 
-## 📊 Data Science & Data Analysis
+##  Data Science & Data Analysis
 
 * Data Science
 * Data Analysis
@@ -74,7 +74,7 @@
 
 ---
 
-## 👁️ Computer Vision
+##  Computer Vision
 
 * Computer Vision
 * Image Processing
@@ -84,7 +84,7 @@
 
 ---
 
-## 💻 Programming Languages
+##  Programming Languages
 
 <p align="left">
 
@@ -103,7 +103,7 @@
 
 ---
 
-## 📊 Data & BI Tools
+##  Data & BI Tools
 
 <p align="left">
 
@@ -115,7 +115,7 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 <p align="left">
 
@@ -134,48 +134,48 @@
 
 ---
 
-## ⚙️ AI Automation
+##  AI Automation
 
 I am interested in building intelligent automation solutions that combine:
 
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 🔄 Automation Workflows
-* 📊 Data Processing
-* 🐍 Python
-* 🔗 AI-powered Applications
+*  Artificial Intelligence
+*  Machine Learning
+*  Automation Workflows
+*  Data Processing
+*  Python
+*  AI-powered Applications
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🤖 AI & Machine Learning
+###  AI & Machine Learning
 
 Projects focused on Machine Learning, Deep Learning, and intelligent systems.
 
-### 📊 Data Analysis
+###  Data Analysis
 
 Data cleaning, exploratory analysis, SQL queries, Excel analysis, and data visualization.
 
-### 📈 Power BI Dashboards
+###  Power BI Dashboards
 
 Interactive dashboards for analyzing business and sales data.
 
-### 👁️ Computer Vision
+###  Computer Vision
 
 Projects involving image processing, classification, and computer vision applications.
 
-### 🐍 Python Projects
+###  Python Projects
 
 Python applications, automation tools, algorithms, and data-related projects.
 
-### 🗄️ SQL Projects
+###  SQL Projects
 
 Database design, queries, data analysis, joins, aggregations, and window functions.
 
 ---
 
-## 📈 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -187,7 +187,7 @@ Database design, queries, data analysis, joins, aggregations, and window functio
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <div align="center">
 
@@ -197,7 +197,7 @@ Database design, queries, data analysis, joins, aggregations, and window functio
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -207,7 +207,7 @@ Database design, queries, data analysis, joins, aggregations, and window functio
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 ```text
 Artificial Intelligence
@@ -224,7 +224,7 @@ AI Automation
 
 ---
 
-## 🎯 Career Interests
+##  Career Interests
 
 ```text
 AI Engineering
@@ -239,7 +239,7 @@ Python Development
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -253,9 +253,9 @@ Python Development
 
 <div align="center">
 
-### 💡 "Learning. Building. Improving."
+###  "Learning. Building. Improving."
 
-⭐ Feel free to explore my repositories and projects.
+ Feel free to explore my repositories and projects.
 
 </div>
 
