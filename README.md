@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohamed Attia Saad
+#  Hi, I'm Mohamed Attia Saad
 
-### 🤖 AI Engineer | Machine Learning | Deep Learning | Data Science & Analytics
+###  AI Engineer | Machine Learning | Deep Learning | Data Science & Analytics
 
 <p>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white" />
@@ -19,23 +19,23 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
-🎓 **AI Student at Pharos University**
+ **AI Student at Pharos University**
 
-🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision**.
+ Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision**.
 
-📊 Interested in **Data Science, Data Analysis, SQL, Excel, Power BI, and Power Query**.
+ Interested in **Data Science, Data Analysis, SQL, Excel, Power BI, and Power Query**.
 
-🐍 Building solutions with **Python, C++, Prolog, and MATLAB**.
+ Building solutions with **Python, C++, Prolog, and MATLAB**.
 
-⚙️ Exploring **AI Automation** and intelligent workflow solutions.
+ Exploring **AI Automation** and intelligent workflow solutions.
 
-🚀 Continuously learning, building projects, and improving my problem-solving skills.
+ Continuously learning, building projects, and improving my problem-solving skills.
 
 ---
 
-## 🤖 AI Engineering
+##  AI Engineering
 
 * Artificial Intelligence
 * AI Engineering
@@ -46,7 +46,7 @@
 
 ---
 
-## 🧠 Machine Learning & Deep Learning
+##  Machine Learning & Deep Learning
 
 * Machine Learning
 * Deep Learning
@@ -59,7 +59,7 @@
 
 ---
 
-## 📊 Data Science & Data Analysis
+##  Data Science & Data Analysis
 
 * Data Science
 * Data Analysis
@@ -74,7 +74,7 @@
 
 ---
 
-## 👁️ Computer Vision
+##  Computer Vision
 
 * Computer Vision
 * Image Processing
@@ -83,7 +83,7 @@
 
 ---
 
-## 💻 Programming Languages
+##  Programming Languages
 
 <p align="left">
 
@@ -95,7 +95,7 @@
 
 ---
 
-## 📊 Data & BI Tools
+##  Data & BI Tools
 
 <p align="left">
 
@@ -108,7 +108,7 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 <p align="left">
 
@@ -118,9 +118,9 @@
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-## 🚗 Global Car Sales Analysis
+##  Global Car Sales Analysis
 
 A data analytics project focused on analyzing global car sales data and extracting meaningful business insights.
 
@@ -133,12 +133,12 @@ A data analytics project focused on analyzing global car sales data and extracti
 * Business Insights
 * Data Visualization
 
-🔗 **Project Repository:**
+ **Project Repository:**
 https://github.com/engmohamedattiaai-cmd/Data-Analytics-Portfolio/tree/main/Global_Car_Sales_Project
 
 ---
 
-## ✈️ Flight Booking Analytics
+##  Flight Booking Analytics
 
 A data analytics project focused on analyzing flight booking data to discover patterns, trends, and meaningful insights.
 
@@ -151,34 +151,34 @@ A data analytics project focused on analyzing flight booking data to discover pa
 * Data Visualization
 * Business Insights
 
-🔗 **Project Repository:**
+ **Project Repository:**
 https://github.com/engmohamedattiaai-cmd/Data-Analytics-Portfolio/tree/main/Flight-Booking-Analytics
 
 ---
 
-## 📂 Data Analytics Portfolio
+##  Data Analytics Portfolio
 
 My collection of **Data Analysis, SQL, Excel, Power BI, and data-driven projects**.
 
-🔗 **Portfolio:**
+ **Portfolio:**
 https://github.com/engmohamedattiaai-cmd/Data-Analytics-Portfolio
 
 ---
 
-## ⚙️ AI Automation
+##  AI Automation
 
 Interested in building intelligent automation solutions using:
 
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 🐍 Python
-* 🔄 Automation Workflows
-* 📊 Data Processing
-* 🔗 AI-powered Applications
+*  Artificial Intelligence
+*  Machine Learning
+*  Python
+*  Automation Workflows
+*  Data Processing
+*  AI-powered Applications
 
 ---
 
-## 🎓 Education
+##  Education
 
 ### Pharos University
 
@@ -190,7 +190,7 @@ Currently developing skills across:
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 ```text
 Artificial Intelligence
@@ -207,7 +207,7 @@ AI Automation
 
 ---
 
-## 🏆 Skills Overview
+##  Skills Overview
 
 | Category       | Technologies                            |
 | -------------- | --------------------------------------- |
